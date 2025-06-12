@@ -134,6 +134,9 @@ The frontend will run on http://localhost:3000
    - Correct guesses earn points
    - Click "Start New Round" to begin a new round
 
+4. **Watch Recorded Video**:
+   - You can watch two players for demo purposes: Pictionary_game_480p.mov  
+
 ## Game Rules
 
 1. Each round, one player is randomly selected to draw
